@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grafgooseman, a student with a passion for building stuff, who is looking for a summer coop
+- 👋 Hi, I’m @grafgooseman, a student with a passion for building stuff
 - 👀 I’m interested in everything Software Related
 - 🌱 I’m currently learning full-stack web development (experienced in React, Node)
 - 💞️ I’m currently looking for a full-time position in Great Toronto Area or remotely 
