@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grafgooseman, a student with a passion for building stuff, who is looking for a summer coop
 - 👀 I’m interested in everything Software Related
-- 🌱 I’m currently learning .Net and React and in addition to this working on completing my Python Data Science certificate 
-- 💞️ I’m looking for more workplace experience that, I hope, could grow in a permanent position 
+- 🌱 I’m currently learning full-stack web development (experienced in React, Node)
+- 💞️ I’m currently looking for a full time position in Great Toronto Area or remotely 
 - 📫 You can reach me through [my LinkedIn](https://www.linkedin.com/in/gusev-artem/ "Artem's LinkedIn") or my email: [gusev@sheridancollege.ca](mailto:gusev@sheridancollege.ca "Artem's email")
 
 <!---
