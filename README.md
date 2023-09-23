@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grafgooseman, a student with a passion for building stuff
 - 👀 I’m interested in everything Software Related
-- 🌱 I’m currently learning full-stack web development (experienced in React, Node)
+- 🌱 I’m currently learning full-stack web development and Machine Learning (experienced in Next.js and C#)
 - 💞️ I’m currently looking for a full-time position in Great Toronto Area or remotely 
 - 📫 You can reach me through [my LinkedIn](https://www.linkedin.com/in/gusev-artem/ "Artem's LinkedIn") or by email: [gusev@sheridancollege.ca](mailto:gusev@sheridancollege.ca "Artem's email")
 
